@@ -1,7 +1,7 @@
 #intermediate python course in 6 hours
 
 
-This unit is all about the self practice and here i did all thing of list, tuples, set and dictionary
+#This unit is all about the self practice and here i did all thing of list, tuples, set and dictionary
 #list
 """mylist = ["banana", "cherry", "appple"]
 item = mylist[0]
@@ -323,3 +323,4 @@ a.add(10)
 a.remove(2)
 a.clear()
 print(a)
+
