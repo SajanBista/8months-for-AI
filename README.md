@@ -22,3 +22,21 @@ infinite iterators are provided by the itertools module. These iterators generat
 count: Useful for generating infinite sequences of numbers, such as indices or timestamps.
 cycle: Useful for cycling through a fixed set of values, such as alternating between two states.
 repeat: Useful for repeating a constant value, such as a default parameter.
+
+
+
+_______________________________________________________
+lambda.py
+
+lambda:
+lambda is an anonymous function (a function without a name) that is defined using the lambda keyword. It is typically used for short, simple operations where defining a full function is unnecessary. syntax: 
+                                lambda arguments: expression
+
+map function
+reduce function 
+filter function and
+sorted 
+
+i covered above 
+________________________________________________________
+
