@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+pandas
+numpy 
+plotly
+altair[all]
+vega
